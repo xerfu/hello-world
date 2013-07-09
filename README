@@ -6,3 +6,4 @@ day 2: commit --amend
      : checkout
 day 4: Branch Master
      : switch branch to testing
+     : hotfix
